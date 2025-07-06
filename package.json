@@ -1,0 +1,23 @@
+{
+  "name": "msb_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namhoang27/MSB_API_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/namhoang27/MSB_API_Playwright/issues"
+  },
+  "homepage": "https://github.com/namhoang27/MSB_API_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10"
+  }
+}
